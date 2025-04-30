@@ -42,7 +42,9 @@ Established an incident response process, outlining remediation steps and escala
 <b>Deploy VMs in Azure</b>
 
 Set up your Windows VMs by specifying the VM name and setting a secure password. Set up a strong username and password to prevent user and password enumeration attacks, as we expect to receive many failed login attempts once deployed.
-<br/><img src="https://imgur.com/BlYZxwF.png" height="80%" width="80%" alt="Create VMs"/><br/>
+![create vm h-pot](https://github.com/user-attachments/assets/c718301a-26e8-4323-b08b-03210b8acd12)
+
+![Image](https://github.com/user-attachments/assets/d0049406-b65d-4378-a75f-67a4bc8fa7ae)
 
 Go to the Network tab, select the NSG (Network Security Group). If you don't have one already, create a new NSG. We'll configure the NSG rules later. 
 <br/><img src="https://imgur.com/TT6J4SG.png" height="80%" width="80%" alt="Create VMs"/><br/>
